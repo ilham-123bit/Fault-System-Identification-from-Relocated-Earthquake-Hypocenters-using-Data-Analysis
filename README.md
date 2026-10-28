@@ -1,2 +1,2 @@
-# Analysis-of-Relocated-Earthquake-Hypocenters-for-Fault-System-Identification-using-Data-Analysis
+# Fault-System-Identification-from-Relocated-Earthquake-Hypocenters-using-Data-Analysis
 The project produces workflow to identify fault system from earthquake hypocenters coordinate points. First, clustering analysis is done using DBSCAN and hierarchical clustering methods. Finally, fault-geometry analysis is carried out using Principal Component Analysis (PCA) and Singular Value Decomposition (SVD) methods.
